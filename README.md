@@ -4,6 +4,9 @@ A real-time jewelry order and production tracking system built using **Google Fo
 
 ---
 
+<img width="1911" height="697" alt="image" src="https://github.com/user-attachments/assets/0755eef6-fc90-486f-8142-7ad9e9dc93dd" />
+
+
 ## 🔗 Live Links
 
 | Module | Link |
